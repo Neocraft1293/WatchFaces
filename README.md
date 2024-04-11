@@ -25,6 +25,5 @@ Assurez-vous de remplacer "chemin_vers_votre_fichier.apk" par le chemin d'accès
 Une fois installé, vous pouvez ajouter le cadran à votre montre et profiter de votre création personnalisée !
 
 ---
-Crée par [Votre Nom] - [Votre Email] - [Date]
-
+Crée par Neocraft1293 
 
